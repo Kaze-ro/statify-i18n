@@ -1,70 +1,69 @@
-{
+ {
     "home": {
-        "title": "It's time to use Statify in your server.",
-        "desc": "Statify is a well made Statistic Discord Bot made for everyone who wants to see how their Server is going that is on Discord Since 2020!",
-        "features_title": "Features of Statify",
-        "features_desc": "We provide you the best features in Statify!",
+        "title": "A venit timpul să folosiți Statify în server-ul dumneavoastră.",
+        "desc": "Statify este un Bot Statistic de Discord bine făcut pentru oricine dorește să-și monitorizeze server-ul propriu,fiind pe Discord încă din 2020!",
+        "features_title": "Caracteristicile Statify-ului",
+        "features_desc": "Vă furnizăm cele mai bune caracteristici în Statify!",
         "features": {
-            "1_title": "1. Statistics",
-            "1_desc": "Easily create your own Statistics and show the world what your Discord Server has. Change everything including the color, images, language and more!",
-            "2_title": "2. Charts",
-            "2_desc": "See how active your community is and improve your Server by that Data. Automatic Chart tracking and generation for Messages, Voicetime, Useramount and many more!",
-            "3_title": "3. Leaderboard",
-            "3_desc": "Show the world what your community got and battle for the global Top 10 in Messageamount or Voiceactivity. Or just battle between the top 10 in your Server."
+            "1_title": "1. Statistici",
+            "1_desc": "Creați-vă cu ușurință propriile Statistici și arătați lumii ce posedă Server-ul vostru de Discord.Schimbați totul începând de la culoare,imagini,limbă și multe altele!",
+            "2_title": "2. Diagrame",
+            "2_desc": "Vedeți cât de activă este comunitatea voastră  și îmbunătățiți-vă server-ul dumneavoastră cu aceste date.Generare și urmărire automată prin Diagramă pentru mesaje,timp de voce,număr de utilizatori și încă multe altele!",
+            "3_title": "3. Clasament",
+            "3_desc": "Arătați lumii ce are comunitatea dumneavoastră și intrați în bătălia pentru Top 10 global în materie de numărul de mesaje sau activitatea de voce.Sau doar luptați printre top 10 în server-ul vostru."
         },
         "stats": {
-            "servers": "Servers",
-            "users": "Users",
-            "stats": "Statistics"
+            "servers": "Servere",
+            "users": "Utilizatori",
+            "stats": "Statistici"
         }
 
     },
-    "ready_try": "Ready to try Statify?",
-    "ready_try2": "Invite Statify and start giving your server cool perks!",
+    "ready_try": "Pregătiți să folosiți Statify?",
+    "ready_try2": "Invitați Statify și începeți să oferiți server-ului dumneavoastră avantaje tari!",
     "features": {
-        "title": "Statify Features and Commands",
-        "desc": "Here you will find all Commands, Features and stats for the Statify Discord Bot.",
-        "commands_title": "Commands",
-        "commands_desc": "A full Command List",
-        "commands_normal": "Normal Commands",
-        "commands_premium": "Premium Commands",
-        "features_title": "Features",
-        "features_desc": "Statify is a small and new Discord Bot to display advanced Statistics, Track and generate Charts and many more things."
+        "title": "Caracteristici ale Statify și Comenzi",
+        "desc": "Aici veți găsi toate Comenzile ,Caracteristicile și Statisticile pentru Bot-ul Statify de Discord.",
+        "commands_title": "Comenzi",
+        "commands_desc": "O listă completă de Comenzi",
+        "commands_normal": "Comenzi obișnuite",
+        "commands_premium": "Comenzi Premium",
+        "features_title": "Caracteristici",
+        "features_desc": "Statify este un mic și nou Bot de Discord care afișează Statistici avansate ,urmărește și generează diagrame și multe alte lucruri."
     },
     "premium": {
         "title": "Statify Premium",
-        "desc": "With Statify Premium you can unlock exclusive Premium Features",
+        "desc": "Cu Statify Premium puteți debloca Caracteristici Premium exclusive.",
         "features": {
-            "title": "Features",
-            "desc": "Here is a list of all Features you get with Statify Premium",
-            "1_title": "Faster Statistic Updating",
-            "1_desc": "Your Statistics will update faster than normal Statistcs",
-            "2_title": "Up to 25 Stats in one Statistic Message",
-            "2_desc": "You can set up to 25 Stats in on Statistic Message.",
-            "3_title": "More Customisation",
-            "3_desc": "Change the Icon, Banner and Description of your Statistic Message."
+            "title": "Caracteristici",
+            "desc": "Aici este o listă a tuturor Caracteristicilor pe care  le primiți cu Statify Premium",
+            "1_title": "Actualizare mai rapidă a Statisticilor",
+            "1_desc": "Statisticile dumneavoastră se vor actualiza mai rapid decât cele obișnuite",
+            "2_title": "Până la 25 de Statistici în doar un singur mesaj de stare",
+            "2_desc": "Puteți seta până la 25 de Statistici într-un singur mesaj de status.",
+            "3_title": "Mai multă Personalizare"
+            "3_desc": "Schimbați Pictograma ,Banner-ul și Descrierea mesajului dumneavoastră statistic."
         },
-        "how_get": "How to get Premium",
-        "how_title": "Discord Server Boosting",
-        "how_desc": "You can get Statify Premium by boosting our Discord Server. After you boosted the Server you will get a Private Message from our Statify Manager. Please follow the instructions sent to you to active your Premium Membership. If you have any Problems feel free to open a ticket in the Ticket-Support."
+        "how_get": "Cum să obțineți Premium",
+        "how_title": "Impuls pentru Server-ul de Discord",
+        "how_desc": "Puteți obține Statify Premium dacă vă stimulați Serverul de Discord.După ce v-ați stimulat Server-ul ve-ți primi un mesaj privat de la administratorul nostru Statify.Vă rugăm să urmați instrucțiunile trimise către dumneavoastră pentru a vă activa calitatea de membru Premium.Dacă aveți probleme, nu ezitați să deschideți un bilet în Ticket-Support."
     },
     "team": {
-        "title": "Teammembers",
-        "desc": "Here you see all of our Teammembers!",
-        "title2": "Statify Team",
-        "desc2": "Meet all of the Amazing People behind Statify",
+        "title": "Membri de echipă",
+        "desc": "Aici îi vedeți pe toți membrii echipei noastre!",
+        "title2": "Echipa Statify",
+        "desc2": "Faceți cunoștință cu toți oamenii uimitori din spatele Statify",
         "states": {
-            "playing": "Playing",
-            "listening": "Listening",
-            "streaming": "Streaming",
-            "watching": "Watching",
-            "custom": "Custom Status"
-        },
+            "playing": "Jucând",
+            "listening": "Ascultând",
+            "streaming": "Transmițând",
+            "watching": "Urmărind",
+            "custom": "Status Personalizat"
         "status": {
             "online": "Online",
-            "offline": "Offline",
-            "dnd": "Do Not Disturb",
-            "idle": "Idle"
+            "offline": "Deconectat",
+            "dnd": "Nu deranjați",
+            "idle": "Inactiv"
         },
         "social": {
             "bio": "Bio",
@@ -75,71 +74,71 @@
         }
     },
     "types": {
-        "title": "Statify Stattypes",
-        "desc": "Here you will find all Stattypes.",
-        "title2": "Statlist",
-        "desc2": "Here are all Stat Types that you can use on Statify:"
+        "title": "Statify tipuri de Statistici",
+        "desc": "Aici ve-ți găsi toate tipurile de Statistici.",
+        "title2": "Listă de Statistici",
+        "desc2": "Aici se găsesc toate tipurile de statistică pe care le puteți folosi pe Statify:"
     },
     "brand": {
-        "title": "Statify Branding",
-        "desc": "Here you will find all Statify Designs that are available for public use with a copyright notice.",
+        "title": "Marca Statify",
+        "desc": "Aici veți găsi toate Design-urile Statify care sunt valabile utilizării de către publicul larg,cu o înștiințare a drepturilor de autor.",
         "pics": {
-            "1": "Statify Logo",
-            "2": "Statify Banner",
-            "3": "Statify Logo (gif)"
+            "1": "Sigla Statify",
+            "2": "Banner-ul Statify",
+            "3": "Sigla Statify (gif)"
         },
-        "download": "Download"
+        "download": "Descărcare"
     },
     "about": {
-        "title": "About Statify",
-        "desc": "A Little About us Text ;)",
-        "about": "About us",
-        "text": "Statify is a small and new Discord Bot to display advanced Statistics, track and generate charts and more.\nWe are a Team from germany consist of one Bot Developer, one Web Developer, a manager and one Designer."
+        "title": "Despre Statify",
+        "desc": "Un pic despre noi Text ;)",
+        "about": "Despre noi",
+        "text": "Statify este un mic și nou Discord Bot care afișează statistici avansate, urmărește și generează diagrame și multe altele.\nSuntem o echipă din Germania formată dintr-un dezvoltator de bot, un dezvoltator de web, un manager și un designer."
     },
     "getting-started": {
-        "title": "Getting Started with Statify",
-        "desc": "Here you can see how to invite the Discord Bot and setup you Statistics.",
+        "title": "Introducere cu Statify",
+        "desc": "Aici puteți vedea cum să invitați Bot-ul de Discord și să vă configurați statisticile.",
         "steps": {
-            "1_title": "1. Inviting the Bot",
-            "1_desc": "Invite the Discord Bot to your Server by clicking here.\nWhen you successfully invited the bot you will be redirected to a confirmation page.",
-            "2_title": "2. Setting up Statistics",
-            "2_desc": "Enter the s!setup command and follow the steps shown on the screen.\nIf everything is complete a Statistic Message will be created in your selected Textchannel.",
-            "3_title": "3. Customising the Bot",
-            "3_desc": "You can customise the Discord Bot by changing the language or the prefix.\nUse s!prefix (new Prefix) or s!language (new Language)",
-            "4_title": "4. Leaderboards & Users",
-            "4_desc": "Get the top 10 members with the most messages or voicetime with the s!leaderboard command.\nUse s!leaderboard (messages/voicetime/textchannel/voicechannel)(guild/global).\nYou can also get the Statistics of a specific User by typing s!user (@User).",
-            "5_title": "5. Charts",
-            "5_desc": "Know how active your community is by generating a own chart for your Discord Server.\nUse s!chart (user/bots/invites/boosts/total_messages/total_voicetime/messages_today/voicetime_today)"
+            "1_title": "1. Invitând Bot-ul",
+            "1_desc": "Invitați Bot-ul de Discord pe serverul dvs. făcând click aici.\nCând ați invitat cu succes botul, veți fi redirecționat către o pagină de confirmare.",
+            "2_title": "2. Configurarea statisticilor",
+            "2_desc": "Introduceți comanda s!setup și urmați pașii afișați pe ecran.\nDacă totul este complet, va fi creat un mesaj statistic în canalul de text selectat de dvs.",
+            "3_title": "3. Personalizarea Bot-ului",
+            "3_desc": "Puteți personaliza botul de Discord schimbând limba sau prefixul.\nFolosiți s!prefix (noul prefix) sau s!language (noua limbă)",
+            "4_title": "4. Clasament și utilizatori",
+            "4_desc": "Obțineți primii 10 membri cu cele mai multe mesaje sau timp de voce cu comanda s!leaderboard.\nFolosiți s!leaderboard (messages/voicetime/textchannel/voicechannel)(guild/global).\nDe asemenea, puteți obține statisticile unui anumit utilizator tastând s!user (@User).",
+            "5_title": "5. Diagrame",
+            "5_desc": "Aflați cât de activă este comunitatea dvs. generând un grafic propriu pentru serverul vostru.\nFolosiți s!chart (user/bots/invites/boosts/total_messages/total_voicetime/messages_today/voicetime_today)"
         },
-        "still": "If you still need help with the Bot. Feel free to join our Discord Server and open a ticket in #ticket-support"
+        "still": "Dacă tot aveți nevoie de ajutor cu Bot-ul, simțiți-vă liber să vă alăturați serverului nostru de Discord și să deschideți un bilet în #ticket-support."
     },
     "links": {
-        "home": "Home",
-        "features": "Features",
+        "home": "Acasă",
+        "features": "Caracteristici",
         "premium": "Premium",
-        "dash": "Dashboard",
+        "dash": "Tablou de bord",
         "dropdown": {
-            "title": "More",
-            "team": "Team",
-            "types": "Stat Types",
-            "brand": "Branding",
-            "support": "Support"
+            "title": "Mai mult",
+            "team": "Echipa",
+            "types": "Tipuri de Statistică",
+            "brand": "Marca",
+            "support": "Suport"
         },
-        "about": "About"
+        "about": "Despre"
     },
     "buttons": {
-        "get-started": "Get Started",
-        "invite": "Add to Server",
-        "more": "Find out More",
-        "back": "Go Back",
-        "next": "Next Page",
-        "login": "Login",
-        "home": "Go Home",
-        "select": "Select",
-        "settings": "Settings",
-        "ssettings": "Server Settings",
-        "support": "Support Discord Server",
-        "discord": "Discord Server"
+        "get-started": "Începeți",
+        "invite": "Adăugați către Server",
+        "more": "Aflați mai multe",
+        "back": "Reveniți",
+        "next": "Pagina următoare",
+        "login": "Autentificare",
+        "home": "Du-te Acasă",
+        "select": "Selectați",
+        "settings": "Setări",
+        "ssettings": "Setările Server-ului",
+        "support": "Susține Server-ul de Discord",
+        "discord": "Server-ul de Discord"
     }
 
 }
